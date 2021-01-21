@@ -38,7 +38,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'Screenshot (7).png',
-    title: 'Vue Minesweeper',
+    title: 'Vue Minesweeper ',
     info: 'I love minesweeper. It was actually the thing that got me into programming. I\'ve rewritten this alot aswell. None of the versions I\'ve written are visually pleasing. My favorite version has been the Vue js version. Why? Becuase its the shortest version. In most cases I think the less code the better. This version is about 100 lines of code less than the React Js version, and about 50 in the Vanilla Js version. All versions have bare minimum css. So im mostly talking about the logic of the game when referring about lines of code.',
     info2: '',
     url: '',
