@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'clojuretictac.png',
     title: 'Clojure Tic Tac Toe',
-    info: 'When trying to learn a new technology, recreating tic tac toe is my goto. This will usually be enough to familiarize with syntax, and some of the quirks that the technology has. Out of all the versions i\'ve made the clojure version has been my favorite. Why? Mostly becuase it forced me into doing things differently. How so? It made me code in a functional way. I also learned how to recursively pass state around. Which I think is a neat way of doing things.',
+    info: 'When trying to learn a new framework/language, recreating tic tac toe is my goto. This will usually be enough to familiarize with syntax, and some of the quirks that the framework/language has. Out of all the versions i\'ve made the clojure version has been my favorite. Why? Mostly becuase it forced me into doing things differently. How so? It made me code in a functional way. I also learned how to recursively pass state around. Which I think is a neat way of doing things.',
     info2: '',
     url: '',
     repo: 'https://github.com/SantoHerrera/clojuretictac', // if no repo, the button will not show up
