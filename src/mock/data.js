@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Screenshot (9).png',
     title: 'Professional Experience',
-    info: 'For a couple of weeks I was being sent out to Utah Public Health Labatories. This particular job had a lot of down time. My phone dying becuase I used it too much was a genuine concern. Anyways, my boss asked me if I could go to a google sheet that the company had and reorganize the names. Their was over 250 names. I immediately thought "I could make some type of script for this." I had to learn how to use the google script editor. That compined with what my boss wanted, and the contrains that entailed, made this a a fun little project. Not gonna lie, this took me a little longer too finish than I would have hoped. ',
+    info: 'For a couple of weeks I was being sent out to Utah Public Health Labatories. This particular job had a lot of down time. My phone dying becuase I used it too much was a genuine concern. Anyways, my boss asked me if I could go to a google sheet that the company had and reorganize the names. Their was over 250 names. I immediately thought "I could make some type of script for this." I had to learn how to use the google script editor. That compined with what my boss wanted, and the contrains that entailed, made this a a fun little project. Not gonna lie, this took me a little longer too finish than I would have hoped.',
     info2: '',
     url: '',
     repo: 'https://github.com/SantoHerrera/UPHL/blob/master/googleSpreadSheet.js', // if no repo, the button will not show up
