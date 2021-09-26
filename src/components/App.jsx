@@ -34,5 +34,5 @@ function App() {
     </PortfolioProvider>
   );
 }
-
+//<Footer />
 export default App;
