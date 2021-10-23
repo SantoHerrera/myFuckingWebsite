@@ -18,7 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'Screenshot (11).png',
-  paragraphOne: 'A punch of filler words here, talking/describing me as a person.',
+  paragraphOne:
+    'I have a really hard time talking about myself. So ill just put some of my hobbies here. Some of them being playing soccer, longboarding, videogames, hiking, and programming',
   paragraphTwo: ' ',
   paragraphThree: ' ',
   resume: '', // if no resume, the button will not show up
@@ -48,13 +49,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Screenshot (9).png',
+    img: 'nuova.png',
     title: 'Professional Experience',
     info:
-      'For a couple of weeks I was being sent out to Utah Public Health Labatories. This particular job had a lot of down time. My phone dying becuase I used it too much was a genuine concern. Anyways, my boss asked me if I could go to a google sheet that the company had and reorganize the names. Their was over 250 names. I immediately thought "I could make some type of script for this." I had to learn how to use the google script editor. That compined with what my boss wanted, and the contrains that entailed, made this a a fun little project. Not gonna lie, this took me a little longer too finish than I would have hoped.',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/SantoHerrera/UPHL/blob/master/googleSpreadSheet.js', // if no repo, the button will not show up
+      "Heres a website I made for a client. I didn't make this from scratch. I got a premade template and changed it to thier needs. They were really happy with the results. As was I. Although it's very similer to the original template I did run into a bunch of roadblocks changing it to my needs.",
+    info2: 'Original: https://github.com/Dorota1997/react-frontend-dev-portfolio',
+    url: 'https://nuovaimmagine.netlify.app/',
+    repo: 'https://github.com/SantoHerrera/nuovaimmagine', // if no repo, the button will not show up
   },
 ];
 
