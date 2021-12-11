@@ -30,9 +30,9 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'nuova.png',
-    title: 'Professional Experience',
+    title: 'Relevant Experience',
     info:
-      "Heres a website I made for a client. I got a react template I found on github and changed it to thier needs. Although it's very similer to the original I did run into a bunch of roadblocks changing it.",
+      "Heres a website I made for a client. I got a react template I found on github and changed it to our needs. Although it's very similer to the original I did run into a bunch of roadblocks changing it.",
     info2: 'Original: https://github.com/Dorota1997/react-frontend-dev-portfolio',
     url: 'https://nuovaimmagine.netlify.app/',
     repo: 'https://github.com/SantoHerrera/nuovaimmagine', // if no repo, the button will not show up
