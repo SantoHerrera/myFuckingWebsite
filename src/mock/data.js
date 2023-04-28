@@ -32,7 +32,7 @@ export const projectsData = [
     img: 'game.png',
     title: 'Hack and Slack 2d',
     info:
-      "Most recent project i've been playing with. It's using Unity. NOTE: Both buttons with redirect to github src as their is no live version yet",
+      "Most recent project i've been playing with. It's using Unity. NOTE: Both buttons will redirect to github src as their is no live version yet",
     info2: '',
     url: 'https://github.com/SantoHerrera/hackslash',
     repo: 'https://github.com/SantoHerrera/hackslash', // if no repo, the button will not show up
