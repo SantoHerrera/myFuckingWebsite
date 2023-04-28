@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'Screenshot (11).png',
   paragraphOne:
-    'I have a really hard time talking about myself. So ill just put some of my hobbies here. Some of them being playing soccer, longboarding, videogames, hiking, and programming',
+    'I have a really hard time talking about myself. So ill just put some of my hobbies here. Some of them being soccer, longboarding, videogames, chess, hiking, and programming.',
   paragraphTwo: ' ',
   paragraphThree: ' ',
   resume: '', // if no resume, the button will not show up
@@ -31,10 +31,11 @@ export const projectsData = [
     id: nanoid(),
     img: 'game.png',
     title: 'Hack and Slack 2d',
-    info: "Most recent project i've been playing with. It's using Unity.",
+    info:
+      "Most recent project i've been playing with. It's using Unity. NOTE: Both buttons with redirect to github src as their is no live version yet",
     info2: '',
-    url: 'https://github.com/SantoHerrera/clojuretictac',
-    repo: 'https://github.com/SantoHerrera/clojuretictac', // if no repo, the button will not show up
+    url: 'https://github.com/SantoHerrera/hackslash',
+    repo: 'https://github.com/SantoHerrera/hackslash', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -61,7 +62,7 @@ export const projectsData = [
     img: 'clojuretictac.png',
     title: 'Tic Tac Toe',
     info:
-      "When trying to learn a new framework/language, recreating tic tac toe is my goto. This will usually get the ball rolling with syntax and everything that follows. Out of all the versions i've made the clojure version has been my favorite. As it forced me into doing things in the functional paradigm way before this I only knew the OOP way.",
+      "When trying to learn a new framework/language, recreating tic tac toe is my goto. This will usually get the ball rolling with syntax and everything that follows. Out of all the versions i've made the clojure version has been my favorite. As it forced me into doing things in the functional paradigm. Before this I only knew the OOP/mutating data way :(.",
     info2: '',
     url: 'https://github.com/SantoHerrera/clojuretictac',
     repo: 'https://github.com/SantoHerrera/clojuretictac', // if no repo, the button will not show up
