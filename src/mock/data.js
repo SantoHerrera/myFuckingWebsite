@@ -29,11 +29,20 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'game.png',
+    title: 'Hack and Slack 2d',
+    info: "Most recent project i've been playing with. It's using Unity.",
+    info2: '',
+    url: 'https://github.com/SantoHerrera/clojuretictac',
+    repo: 'https://github.com/SantoHerrera/clojuretictac', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'nuova.png',
     title: 'Relevant Experience',
     info:
       "Heres a website I made for a client. I got a react template I found on github and changed it to our needs. Although it's very similer to the original I did run into a bunch of roadblocks changing it.",
-    info2: 'Original: https://github.com/Dorota1997/react-frontend-dev-portfolio',
+    info2: '', // Original: https://github.com/Dorota1997/react-frontend-dev-portfolio
     url: 'https://elsymorabeautysalon.netlify.app/',
     repo: 'https://github.com/SantoHerrera/nuovaimmagine', // if no repo, the button will not show up
   },
@@ -50,9 +59,9 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'clojuretictac.png',
-    title: 'Clojure Tic Tac Toe',
+    title: 'Tic Tac Toe',
     info:
-      "When trying to learn a new framework/language, recreating tic tac toe is my goto. This will usually get the ball rolling with syntax and everything that follows. Out of all the versions i've made the clojure version has been my favorite. As it forced me into doing things in a functional way.",
+      "When trying to learn a new framework/language, recreating tic tac toe is my goto. This will usually get the ball rolling with syntax and everything that follows. Out of all the versions i've made the clojure version has been my favorite. As it forced me into doing things in the functional paradigm way before this I only knew the OOP way.",
     info2: '',
     url: 'https://github.com/SantoHerrera/clojuretictac',
     repo: 'https://github.com/SantoHerrera/clojuretictac', // if no repo, the button will not show up
